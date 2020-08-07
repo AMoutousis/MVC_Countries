@@ -1,0 +1,13 @@
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.exe
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.deps.json
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.runtimeconfig.json
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.runtimeconfig.dev.json
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.dll
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\bin\Debug\netcoreapp3.1\MVC_CountriesLab.pdb
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.csprojAssemblyReference.cache
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.AssemblyInfoInputs.cache
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.AssemblyInfo.cs
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.csproj.CoreCompileInputs.cache
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.dll
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.pdb
+C:\Users\Andoni\source\repos\MVC_CountriesLab\MVC_CountriesLab\obj\Debug\netcoreapp3.1\MVC_CountriesLab.genruntimeconfig.cache
