@@ -58,7 +58,7 @@ namespace MVC_CountriesLab
 
             for (int i = 0; i < countrydb.Count; i++)
             {
-                if (selection == i)
+                if ((selection-1) == i)
                 {
                     CountryAction(countrydb[i]);
                 }

@@ -14,13 +14,10 @@ namespace MVC_CountriesLab
         public void Display()
         {
             int temp = 0;
-            //for (int i = 0; i < countries.Count; i++)
-            //{
-            //    Console.WriteLine($"{i}. {countries.}");
-            //}
+
             foreach (Country count in countries)
             {
-                Console.WriteLine($"{temp}. {count.Name}");
+                Console.WriteLine($"{temp+1}. {count.Name}");
                 temp++;
             }
         }
